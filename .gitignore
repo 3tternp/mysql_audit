@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# Output
+output/
+*.csv
+*.tsv
+*.json
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
